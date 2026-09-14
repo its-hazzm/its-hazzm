@@ -1,26 +1,30 @@
 # Hi there, I'm Hazem 👋
 
 🎓 **Computer Science & Information Security Student**  
-💻 Passionate about **Cybersecurity**, **Automation**, and **Creative Tech Pipelines**  
-🚀 Bridging the gap between software engineering, network defense, and media workflows.
+🎬 **AI Filmmaker & Video Editor** | 💻 **Cybersecurity & Automation Enthusiast**  
+🚀 Blending software engineering, network defense, and AI-driven cinematic storytelling.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Creative Toolkit
 
-**Languages & Scripting:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+**Creative Production & AI Video:**  
+![AI Filmmaking](https://img.shields.io/badge/-AI%20Filmmaking-FF6F61?style=flat-square)
+![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white)
+![CapCut](https://img.shields.io/badge/-CapCut-000000?style=flat-square)
+![FLUX](https://img.shields.io/badge/-FLUX.1-7A28CB?style=flat-square)
+![Kling AI](https://img.shields.io/badge/-Kling%20AI-00C4CC?style=flat-square)
 
 **Security & Networks:**  
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Network Security](https://img.shields.io/badge/-Network%20Security-red?style=flat-square)
 
-**Tools & Workflow:**  
+**Languages & Cloud:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
 ---
@@ -35,6 +39,6 @@
 ---
 
 ### ⚡ What I'm Focused On
-- 🛡️ Solving challenges on TryHackMe and building practical cybersecurity skills.
-- ⚙️ Developing Python scripts for automation and data/media pipelines.
-- 🎬 Exploring AI-driven creative workflows and digital storytelling.
+- 🎬 Producing cinematic short films using advanced AI pipelines (FLUX + Kling) and post-production video editing.
+- ⚙️ Developing automated Python pipelines for media processing and creative workflows.
+- 🛡️ Solving challenges on TryHackMe and sharpening practical cybersecurity skills.
