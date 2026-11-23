@@ -44,7 +44,7 @@ I am a 21-year-old Computer Science & Information Security student. Living and s
 
 ### 🚀 Featured Engineering Projects
 
-#### 📱 [Sadaqah App](https://github.com/its-hazzm) – Offline-First Mobile Application
+#### 📱 [Sadaqah App](https://github.com/its-hazzm/Sadaqah-Gaza) – Offline-First Mobile Application
 * **Stack:** React Native, Expo, SQLite, JavaScript.
 * **Core Engineering:** Designed and engineered a standalone offline-first Quran reader built to function reliably during total power cuts and communication blackouts.
 * **Database & Indexing:** Implemented a local SQLite database with custom indexing to eliminate memory bottlenecks and avoid linear table scans on resource-constrained Android devices.
